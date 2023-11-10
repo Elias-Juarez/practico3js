@@ -1,0 +1,15 @@
+table{
+    border: 1px solid rgb(32, 158, 205);
+    border-radius: 5px;
+}
+
+td{
+    border: 1px solid rgb(23, 189, 201);
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.tituloDados{
+    color: rgb(5, 195, 212);
+    width: 50%;
+}
